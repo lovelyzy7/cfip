@@ -7,7 +7,6 @@ compatibility_date = "2026-03-09"
 [[kv_namespaces]]
 binding = "IP_KV"
 id = "d9425355937745f1b5933357ef94380f"
-preview_id = "local_kv_preview_id"
 
 [vars]
 # 登录密码和APItoken，生产环境请在 Cloudflare Dashboard 设置
